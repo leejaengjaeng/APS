@@ -14,7 +14,7 @@ int main(){
 				a[i] = a[j];
 				a[j] = tmp;
 			}
-		}	
+		}
 	}
 	printf("%d", a[1]);
 }
