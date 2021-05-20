@@ -1,6 +1,6 @@
-package problems;
+package leetcode.src.problems;
 
-public class LongestSubstringOfAllVowelsinOrder {
+public class Problem1839 {
 
     public static void main(String[] args) {
 

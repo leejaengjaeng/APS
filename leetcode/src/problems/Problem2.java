@@ -1,9 +1,9 @@
-package problems;
+package leetcode.src.problems;
 
-public class AddTwoNumbers {
+public class Problem2 {
 
     public static void main(String[] args) {
-        AddTwoNumbers addTwoNumbers = new AddTwoNumbers();
+        Problem2 addTwoNumbers = new Problem2();
 
 //        [9, 9,9,9, 9,9,9]
 //        [9,9,9,9]

@@ -1,8 +1,8 @@
-package problems;
+package leetcode.src.problems;
 
 import java.math.BigInteger;
 
-public class MultiplyStrings {
+public class Problem43 {
 
     public static void main(String[] args) {
         System.out.println(multiply("2","4"));
